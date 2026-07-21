@@ -1,0 +1,12 @@
+export const PRIMARY       = "#1565C0";
+export const PRIMARY_LIGHT = "#1976D2";
+export const PRIMARY_DARK  = "#0D47A1";
+export const ACCENT        = "#42A5F5";
+export const BG            = "#F5F7FA";
+export const WHITE         = "#FFFFFF";
+export const TEXT          = "#1A1A2E";
+export const TEXT_MUTED    = "#6B7280";
+export const BORDER        = "#E2E8F0";
+export const SUCCESS       = "#22C55E";
+export const DANGER        = "#EF4444";
+export const WARNING       = "#F59E0B";
